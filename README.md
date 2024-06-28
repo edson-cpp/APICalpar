@@ -11,12 +11,14 @@ API Calpar
   
 ## Acesso remoto
 1. Execute o servidor:
-   https://web-production-1789d.up.railway.app/api/
-   https://apicalpar.onrender.com/api/
+   `https://web-production-1789d.up.railway.app/api/`
+   ou
+   `https://apicalpar.onrender.com/api/`
 
 3. Consuma a API e armazene os dados:
-   https://web-production-1789d.up.railway.app/api/fetch-users/
-   https://apicalpar.onrender.com/api/fetch-users/
+   `https://web-production-1789d.up.railway.app/api/fetch-users/`
+   ou
+   `https://apicalpar.onrender.com/api/fetch-users/`
 
 5. Acesse a documentação da API em:
 
