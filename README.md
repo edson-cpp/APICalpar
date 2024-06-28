@@ -14,6 +14,8 @@ API Calpar
    `https://web-production-1789d.up.railway.app/api/`
    ou
    `https://apicalpar.onrender.com/api/`
+   - Usuário: edson
+   - Senha: system
 
 3. Consuma a API e armazene os dados:
    `https://web-production-1789d.up.railway.app/api/fetch-users/`
