@@ -8,12 +8,27 @@ API Calpar
 - Django Rest Framework
 - requests
 - drf-yasg
+  
+## Acesso remoto
+1. Execute o servidor:
+    https://web-production-1789d.up.railway.app/api/
 
-## Instalação
+2. Consuma a API e armazene os dados:
+    https://web-production-1789d.up.railway.app/api/fetch-users/
+
+3. Acesse a documentação da API em:
+   RAILWAY
+    - Swagger: `https://web-production-1789d.up.railway.app/swagger/`
+    - Redoc: `https://web-production-1789d.up.railway.app/redoc/`
+   RENDER
+    - Swagger: `https://apicalpar.onrender.com/swagger/`
+    - Redoc: `https://apicalpar.onrender.com/redoc/`
+    
+## Instalação local
 
 1. Clone o repositório:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/edson-cpp/APICalpar.git
     cd api_project
     ```
 
