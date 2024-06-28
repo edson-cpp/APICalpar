@@ -11,12 +11,14 @@ API Calpar
   
 ## Acesso remoto
 1. Execute o servidor:
-    https://web-production-1789d.up.railway.app/api/
+   https://web-production-1789d.up.railway.app/api/
+   https://apicalpar.onrender.com/api/
 
-2. Consuma a API e armazene os dados:
-    https://web-production-1789d.up.railway.app/api/fetch-users/
+3. Consuma a API e armazene os dados:
+   https://web-production-1789d.up.railway.app/api/fetch-users/
+   https://apicalpar.onrender.com/api/fetch-users/
 
-3. Acesse a documentação da API em:
+5. Acesse a documentação da API em:
 
    RAILWAY
     - Swagger: `https://web-production-1789d.up.railway.app/swagger/`
