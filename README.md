@@ -35,7 +35,7 @@ API Calpar
 1. Clone o repositório:
     ```bash
     git clone https://github.com/edson-cpp/APICalpar.git
-    cd api_project
+    cd APICalpar
     ```
 
 2. Crie um ambiente virtual e instale as dependências:
